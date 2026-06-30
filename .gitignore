@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# build output
+build/
+
+# VS Code
+.vscode/
+
+# temporary files
+*.out
+*.o
