@@ -1,12 +1,12 @@
 # macOS
 .DS_Store
 
-# build output
+# Compiled output
 build/
+bin/
+
+# Object files
+*.o
 
 # VS Code
 .vscode/
-
-# temporary files
-*.out
-*.o
